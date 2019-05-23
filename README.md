@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="www.mpg-autosales.com">
-    <img src="https://www.jose.is/img/mpg-logo.svg" alt="Logo" width="200">
+    <img src="https://www.jose.is/img/mpg-logo.svg" alt="Logo" width="300">
   </a>
 </p>
 
