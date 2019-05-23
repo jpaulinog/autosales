@@ -6,7 +6,9 @@
   </a>
 </p>
 
-MPG Auto Sales is a WordPress starter theme with a modern development workflow.
+<p align="center">
+MPG Auto Sales is a WordPress theme with a modern development workflow.
+</p>
 
 ## Features
 
