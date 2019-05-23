@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a target="_blank" href="www.mpg-autosales.com">
+  <a target="_blank" href="https://www.mpg-autosales.com">
     <img src="https://www.jose.is/img/mpg-logo.svg" alt="Logo" width="300">
   </a>
 </p>
