@@ -80,7 +80,7 @@
   "dependencies": {
     "bootstrap": "v4.3.1",
     "flexslider": "^2.7.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery.appear": "^1.0.1",
     "jquery.cookie": "^1.4.1",
     "jquery.easing": "^1.4.1",
